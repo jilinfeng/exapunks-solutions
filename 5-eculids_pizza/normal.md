@@ -1,13 +1,13 @@
 - XA
-  ```
-  GRAB 300
-  COPY F M
-  COPY F M
-  COPY F M
-  COPY F M
-  COPY F M
-  HALT
-  ```
+    ```
+    GRAB 300
+    COPY F M
+    COPY F M
+    COPY F M
+    COPY F M
+    COPY F M
+    HALT
+    ```
 - XB
     ```
     LINK 800
