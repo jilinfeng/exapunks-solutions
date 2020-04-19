@@ -1,0 +1,10 @@
+- xa
+```
+LINK 800
+GRAB 200
+ADDI F F X
+MULI X F X
+SUBI X F F
+LINK 800
+HALT
+```
